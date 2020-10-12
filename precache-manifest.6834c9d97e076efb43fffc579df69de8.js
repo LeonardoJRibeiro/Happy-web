@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1168639c8457d2d49f71e2d1375bc8cb",
+    "revision": "4eb1a780fd86144c5526804a236cae11",
     "url": "/Happy-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Happy-web/static/css/2.a4567992.chunk.css"
   },
   {
-    "revision": "81cafe76368d0990b96c",
+    "revision": "b96b14b22210dfa6a2f1",
     "url": "/Happy-web/static/css/main.e13ca2b6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Happy-web/static/js/2.808254fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81cafe76368d0990b96c",
-    "url": "/Happy-web/static/js/main.054ff76a.chunk.js"
+    "revision": "b96b14b22210dfa6a2f1",
+    "url": "/Happy-web/static/js/main.80221cc7.chunk.js"
   },
   {
     "revision": "1c1a0e1f1ecf41e2f5ae",

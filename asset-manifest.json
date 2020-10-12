@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Happy-web/static/css/main.e13ca2b6.chunk.css",
-    "main.js": "/Happy-web/static/js/main.054ff76a.chunk.js",
-    "main.js.map": "/Happy-web/static/js/main.054ff76a.chunk.js.map",
+    "main.js": "/Happy-web/static/js/main.80221cc7.chunk.js",
+    "main.js.map": "/Happy-web/static/js/main.80221cc7.chunk.js.map",
     "runtime-main.js": "/Happy-web/static/js/runtime-main.22d1b781.js",
     "runtime-main.js.map": "/Happy-web/static/js/runtime-main.22d1b781.js.map",
     "static/css/2.a4567992.chunk.css": "/Happy-web/static/css/2.a4567992.chunk.css",
     "static/js/2.808254fd.chunk.js": "/Happy-web/static/js/2.808254fd.chunk.js",
     "static/js/2.808254fd.chunk.js.map": "/Happy-web/static/js/2.808254fd.chunk.js.map",
     "index.html": "/Happy-web/index.html",
-    "precache-manifest.8989423e743c7514f10c38025d54186d.js": "/Happy-web/precache-manifest.8989423e743c7514f10c38025d54186d.js",
+    "precache-manifest.6834c9d97e076efb43fffc579df69de8.js": "/Happy-web/precache-manifest.6834c9d97e076efb43fffc579df69de8.js",
     "service-worker.js": "/Happy-web/service-worker.js",
     "static/css/2.a4567992.chunk.css.map": "/Happy-web/static/css/2.a4567992.chunk.css.map",
     "static/css/main.e13ca2b6.chunk.css.map": "/Happy-web/static/css/main.e13ca2b6.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.a4567992.chunk.css",
     "static/js/2.808254fd.chunk.js",
     "static/css/main.e13ca2b6.chunk.css",
-    "static/js/main.054ff76a.chunk.js"
+    "static/js/main.80221cc7.chunk.js"
   ]
 }
