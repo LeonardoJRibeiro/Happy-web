@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/pages/orphanages-map.css';
 import mapMarkerImg from '../images/map-marker.svg';
 import { Map, TileLayer,  } from 'react-leaflet';
+import {FiPlus} from 'react-icons/fi'
 
 import 'leaflet/dist/leaflet.css'
 import { Link } from 'react-router-dom';
@@ -26,6 +27,7 @@ const OrphanagesMap: React.FC = () => {
         </TileLayer>
       </Map>
       <Link to='' className="create-orphanage">
+        <FiPlus size={32} color="FFF"/>
       </Link>
     </div>
   );
