@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/happy/static/css/main.bc8e346a.chunk.css",
+    "main.js": "/happy/static/js/main.d05277e4.chunk.js",
+    "main.js.map": "/happy/static/js/main.d05277e4.chunk.js.map",
+    "runtime-main.js": "/happy/static/js/runtime-main.4b200911.js",
+    "runtime-main.js.map": "/happy/static/js/runtime-main.4b200911.js.map",
+    "static/css/2.a4567992.chunk.css": "/happy/static/css/2.a4567992.chunk.css",
+    "static/js/2.5faba2a5.chunk.js": "/happy/static/js/2.5faba2a5.chunk.js",
+    "static/js/2.5faba2a5.chunk.js.map": "/happy/static/js/2.5faba2a5.chunk.js.map",
+    "index.html": "/happy/index.html",
+    "precache-manifest.a3a60579429bbcff8c67ab783a47397e.js": "/happy/precache-manifest.a3a60579429bbcff8c67ab783a47397e.js",
+    "service-worker.js": "/happy/service-worker.js",
+    "static/css/2.a4567992.chunk.css.map": "/happy/static/css/2.a4567992.chunk.css.map",
+    "static/css/main.bc8e346a.chunk.css.map": "/happy/static/css/main.bc8e346a.chunk.css.map",
+    "static/js/2.5faba2a5.chunk.js.LICENSE.txt": "/happy/static/js/2.5faba2a5.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/happy/static/media/landing.91c8d1af.svg",
+    "static/media/logo.svg": "/happy/static/media/logo.1653c647.svg",
+    "static/media/map-marker.svg": "/happy/static/media/map-marker.658b8302.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b200911.js",
+    "static/css/2.a4567992.chunk.css",
+    "static/js/2.5faba2a5.chunk.js",
+    "static/css/main.bc8e346a.chunk.css",
+    "static/js/main.d05277e4.chunk.js"
+  ]
+}
