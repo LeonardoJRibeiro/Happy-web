@@ -21,7 +21,7 @@ const OrphanagesMap: React.FC = () => {
         </footer>
       </aside>
       <Map center={[-15.5628755,-49.943474]} zoom={14} style={{width: '100%', height: '100%'}}>
-        <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" >
+        <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"  >
 
         </TileLayer>
       </Map>
